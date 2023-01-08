@@ -1,0 +1,11 @@
+.log_in{
+    height: 90vh;
+    background: linear-gradient(rgb(255, 0, 212),black);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,22 @@
+
+.main-section{
+    background: linear-gradient(rgb(255, 0, 212),black);
+    /* background-image: url(https://cdn.britannica.com/67/19367-050-885866B4/Valley-Taurus-Mountains-Turkey.jpg); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    border: 0;
+    color: #fff;
+    background-color: rgb(28, 28, 192);
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+} 
